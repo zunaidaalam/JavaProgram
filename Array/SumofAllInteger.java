@@ -1,4 +1,4 @@
-package JavaProgram;
+package JavaProgram.Array;
 
 //Get the sum of all elements in a integer Array
 public class SumofAllInteger {

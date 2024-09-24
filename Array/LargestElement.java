@@ -1,4 +1,4 @@
-package JavaProgram;
+package JavaProgram.Array;
 
 public class LargestElement {
 
